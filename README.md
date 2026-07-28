@@ -75,7 +75,7 @@ e-secure-backend/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/e-secure-backend.git
+git clone https://github.com/Tobisimi/e-secure-backend.git
 
 cd e-secure-backend
 ```
